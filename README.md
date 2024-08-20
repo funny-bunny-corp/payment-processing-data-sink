@@ -1,4 +1,4 @@
-# payment-processing-data-products
+# payment-processing-data-sink
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
